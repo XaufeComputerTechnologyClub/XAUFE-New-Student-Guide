@@ -1,4 +1,5 @@
 # XAUFE-New-Student-Guide 西安财经大学学生指南
+> [在线阅读版本](https://xaufecomputertechnologyclub.github.io/XAUFE-New-Student-Guide)
 
 ## 0. 前言
 
