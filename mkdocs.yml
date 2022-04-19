@@ -1,4 +1,12 @@
 site_name: Xaufe handbook
+site_url: 
+repo_name: Xaufe handbook
+repo_url: https://github.com/XaufeComputerTechnologyClub/XAUFE-New-Student-Guide
 
 theme:
   name: material
+
+plugins:
+    - search
+    - git-revision-date-localized
+
